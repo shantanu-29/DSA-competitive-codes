@@ -14,7 +14,7 @@ int main()
     else{
         while(ctr!=1)
         {       
-            if(k<r)
+            if(k<=r)
             {
                 cout<<r;
                 break;
