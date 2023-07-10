@@ -1,0 +1,1 @@
+{"name":"Local: pal2","url":"/Users/cpp git/CP codes/pal2.cpp","tests":[{"id":1687363140362,"input":"9\nNAUTILUS\nFIREFOX\nGEDIT\nFIREFOX\nNAUTILUS\nWINE\nGIMP\nTERMINAL\nWINE","output":"NEALMPUSOXIT"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/cpp git/CP codes/pal2.cpp","group":"local","local":true}
